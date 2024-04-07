@@ -13,7 +13,7 @@ debug = []
 [dependencies]
 either = "1.6.1"
 fxhash = "0.2.1"
-indexmap = "1.6.2"
+indexmap = "1.9.3"
 petgraph = "0.6.2"
 rayon = "1.5.1"
 rnode = {path = "../rnode"}
