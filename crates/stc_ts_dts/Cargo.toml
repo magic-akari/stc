@@ -21,7 +21,7 @@ swc_common = "0.29.15"
 swc_ecma_ast = "0.94.20"
 
 [dev-dependencies]
-anyhow = "1.0.66"
+anyhow = "1.0.82"
 stc_testing = {path = "../stc_testing"}
 stc_ts_builtin_types = {path = "../stc_ts_builtin_types"}
 stc_ts_file_analyzer = {path = "../stc_ts_file_analyzer"}
